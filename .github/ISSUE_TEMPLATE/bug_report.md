@@ -7,24 +7,20 @@ assignees: ''
 
 ---
 
-**About (please complete the following information):**
- - Platform: 
+- Platform: 
  - Branch/Build: 
  - Datasets: 
 
-**Describe the bug**
+**Description:**
 
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Repro:**
 1. 
 
-**Expected behavior**
+**Expected behavior (optional)**
 
 
 **Logs**
 
+
 **Screenshots and/or Videos**
-
-
-**Additional context**
