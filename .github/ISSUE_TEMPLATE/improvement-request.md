@@ -1,13 +1,11 @@
 ---
-name: New Features
-about: Builds out the scope of the New Feature
+name: Improvement Request
+about: Improving upon current feature
 title: ''
-labels: enhancement
+labels: Improvement
 assignees: ''
 
 ---
 
-**Describe Feature**
-
-
-**Acceptance Criteria**
+**Describe Improvement**
+(Describe the change and how it improves the product)

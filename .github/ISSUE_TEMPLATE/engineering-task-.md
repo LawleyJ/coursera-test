@@ -1,6 +1,6 @@
 ---
 name: 'Engineering Task '
-about: Describe this issue template's purpose here.
+about: Debt tasks or tasks that won't really need QA attention
 title: ''
 labels: Engineering Task
 assignees: ''
@@ -8,6 +8,3 @@ assignees: ''
 ---
 
 **Description**
-
-
-**Why is this change necessary?**
