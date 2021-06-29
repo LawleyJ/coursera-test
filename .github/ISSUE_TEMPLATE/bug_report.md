@@ -13,14 +13,9 @@ assignees: ''
 
 **Description:**
 
-
 **Repro:**
 1. 
 
-**Expected behavior (optional)**
-
-
 **Logs**
-
 
 **Screenshots and/or Videos**
