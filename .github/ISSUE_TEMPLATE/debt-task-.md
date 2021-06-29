@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Describe the issue**
+**Describe Issue:**
 
-**The affect it has on the product:**
+**Why is it important to fix now?**
 
 **Plan of Action to resolve:**

@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Description**
+**Description:**
 (Describe the change and how it improves the product)
 
-**Acceptance Criteria**
+**Acceptance Criteria:**

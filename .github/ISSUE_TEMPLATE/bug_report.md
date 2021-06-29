@@ -16,6 +16,6 @@ assignees: ''
 **Repro:**
 1. 
 
-**Logs**
+**Logs:**
 
-**Screenshots and/or Videos**
+**Screenshots and/or Videos:**
