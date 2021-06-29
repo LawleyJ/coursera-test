@@ -1,13 +1,13 @@
 ---
-name: Improvement request
-about: Suggest an idea for this project
+name: New Features
+about: Builds out the scope of the New Feature
 title: ''
-labels: Improvement
+labels: enhancement
 assignees: ''
 
 ---
 
-**Describe Improvement**
+**Describe Feature**
 
 
-**Current Functionality that would be changed**
+**Acceptance Criteria**
